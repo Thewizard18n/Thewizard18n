@@ -1,5 +1,5 @@
 ![effect](starwars.gif)
-<div>
+<div align ="center ">
   <h1>👾code more and solve problems👾</h1>
     </div>
 
