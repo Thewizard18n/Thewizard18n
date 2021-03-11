@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img alt="dev.finances" src="./starwars.gif"  >
+  <img alt="starwars" src="./starwar.gif"  >
 </p>
 
 
