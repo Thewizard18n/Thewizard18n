@@ -8,6 +8,6 @@ If you would like to discuss somethings, you can send me [an email](mailto:gusta
 
 <div align="center">
  
-[![gustavo](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique18n&hide=html&layout=compact&theme=radical)
+![gustavo](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique18n&hide=html&layout=compact&theme=radical)
 
 </div>
